@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "name": "Great Gatsby",
+    "title": "Classic Novel",
+    "price": 0,
+    "category": "free",
+    "img": "./bookImg.jpg"
+  },
+  {
+    "id": 2,
+    "name": "1984",
+    "title": "Dystopian Novel",
+    "price": 0,
+    "category": "free",
+    "img": "./bookImg.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Pride&Prejudice",
+    "title": "Romantic Novel",
+    "price": 0,
+    "category": "free",
+    "img": "./bookImg.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Mockingbird",
+    "title": "Historical Novel",
+    "price": 0,
+    "category": "free",
+    "img": "./bookImg.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Catcher in Rye",
+    "title": "Coming-of-Age Novel",
+    "price": 0,
+    "category": "free",
+    "img": "./bookImg.jpg"
+  },
+  {
+    "id": 6,
+    "name": "The Hobbit",
+    "title": "Fantasy Novel",
+    "price": 0,
+    "category": "free",
+    "img": "./bookImg.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Moby Dick",
+    "title": "Adventure Novel",
+    "price": 0,
+    "category": "free",
+    "img": "./bookImg.jpg"
+  },
+  {
+    "id": 8,
+    "name": "War and Peace",
+    "title": "Historical Fiction",
+    "price": 0,
+    "category": "free",
+    "img": "./bookImg.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Frankenstein",
+    "title": "Gothic Novel",
+    "price": 0,
+    "category": "free",
+    "img": "./bookImg.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Dracula",
+    "title": "Horror Novel",
+    "price": 0,
+    "category": "free",
+    "img": "./bookImg.jpg"
+  }
+]
